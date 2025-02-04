@@ -2,9 +2,12 @@
 <h3 align="center">Robotics and Digital Systems Engineering student at Tecnologico de Monterrey, Campus Guadalajara. </h3>
 
 <h2 align="center"> About me </h2>
+
+
 - ✍️ I am interested in electronics, robotics and computer science but also open to learn about more subjects.
 - 🌐 I am fluent in Spanish and English and i also have a basic French competence 
 - 📫 How to reach me **fernandog.gutierrezm@outlook.com**
+
 
 🔭🚀🏎️✈️💻
 
