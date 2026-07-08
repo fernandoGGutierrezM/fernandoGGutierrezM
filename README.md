@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">Robotics and Digital Systems Engineering student at Tecnologico de Monterrey, Campus Guadalajara. </h3>
+<h3 align="center">I studied Robotics and Digital Systems (computer engineering) at Tecnologico de Monterrey, Campus Guadalajara. </h3>
 
 <h2 align="center"> About me </h2>
 
